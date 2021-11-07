@@ -1,4 +1,4 @@
-# test-js-reduce
+# test-js-reducer
 
 以下を参考に試してみる
 
